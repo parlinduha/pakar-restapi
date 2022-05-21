@@ -1,0 +1,24 @@
+{
+  "name": "pakar-restapi",
+  "version": "1.0.0",
+  "description": "restapi untuk projek sistem pakar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parlinduha/pakar-restapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "reactjs"
+  ],
+  "author": "Parlin duha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parlinduha/pakar-restapi/issues"
+  },
+  "homepage": "https://github.com/parlinduha/pakar-restapi#readme"
+}
