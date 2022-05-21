@@ -1,9 +1,9 @@
 'use strick';
 
-exports.ok = function(value,res){
+exports.ok = function(values,res){
     var data ={
         'status' : 200,
-        'value' : value
+        'values' : values
     }
     res.json(data);
     res.end();

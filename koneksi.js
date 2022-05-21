@@ -2,8 +2,8 @@ var mysql = require('mysql');
 
 // koneksi ke database
 const conn = mysql.createConnection({
-    host: '127.0.0',
-    user: 'root',
+    host: 'localhost',
+    username: 'root',
     password: '',
     database: 'stres-kerja-fwChaining'
 });
